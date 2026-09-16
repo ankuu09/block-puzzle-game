@@ -1,0 +1,6 @@
+{
+  "name": "Block Puzzle",
+  "description": "An 8x8 block-placement puzzle game where you strategically place shapes to clear rows and columns, build combos, and achieve high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
